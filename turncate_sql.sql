@@ -1,0 +1,10 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE TABLE Communications;
+TRUNCATE TABLE Escalations;
+TRUNCATE TABLE IncidentAssignments;
+TRUNCATE TABLE Incidents;
+TRUNCATE TABLE Engineers;
+TRUNCATE TABLE Departments;
+TRUNCATE TABLE Customers;
+TRUNCATE TABLE Users;
+TRUNCATE TABLE KnowledgeBase;
