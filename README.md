@@ -26,6 +26,8 @@ The system is built on **9 relational tables** with enforced foreign key constra
 | `Communications` | Customer-facing updates tied to an incident |
 | `KnowledgeBase` | Repository of resolved issue solutions for future reference |
 
+![SIMS ER Diagram](ER_Diagram.jpeg)
+
 ### Entity Relationship Summary
 
 ```
